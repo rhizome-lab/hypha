@@ -8,6 +8,7 @@ publish = false
 [dependencies]
 interconnect-core = { path = "../../crates/interconnect-core" }
 anyhow = "1"
+thiserror = "2"
 tokio = { version = "1", features = ["full"] }
 tokio-tungstenite = "0.26"
 futures-util = "0.3"
