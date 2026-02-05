@@ -136,8 +136,8 @@ Do not:
 
 ## Crate Structure
 
-All crates use the `rhi-interconnect-` prefix:
-- `rhi-interconnect-core` - Protocol types and traits
-- `rhi-interconnect-client` - Client-side implementation
-- `rhi-interconnect-server` - Server-side implementation
-- `rhi-interconnect-substrate` - Substrate caching and replication
+All crates use the `interconnect-` prefix:
+- `interconnect-core` - Protocol types and traits
+- `interconnect-client` - Client-side implementation
+- `interconnect-server` - Server-side implementation
+- `interconnect-substrate` - Substrate caching and replication

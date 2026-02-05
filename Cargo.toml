@@ -9,4 +9,4 @@ license = "MIT"
 repository = "https://github.com/rhi-zone/interconnect"
 
 [workspace.dependencies]
-rhi-interconnect-core = { path = "crates/rhi-interconnect-core" }
+interconnect-core = { path = "crates/interconnect-core" }
